@@ -7,7 +7,7 @@ A modern, responsive Nike landing page built with **HTML, CSS, and JavaScript**.
 ## 🖥️ Demo
 
 You can view the live demo here:  
-[Live Demo Link](#) <!-- Replace # with your deployed URL -->
+[Live Demo Link](https://nike-landing-page-rosy.vercel.app/) <!-- Replace # with your deployed URL -->
 
 ---
 
