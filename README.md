@@ -65,5 +65,6 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 Subhasree Sahu
-GitHub: https://github.com/Subh0220
-Portfolio: [\Subhasree Sahu\]](https://my-portfolio-wheat-mu-65.vercel.app/)
+
+- GitHub: https://github.com/Subh0220
+- Portfolio: [Subhasree Sahu](https://my-portfolio-wheat-mu-65.vercel.app/)
