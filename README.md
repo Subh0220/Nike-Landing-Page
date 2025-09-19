@@ -43,7 +43,7 @@ No additional dependencies are required. Pure HTML, CSS, and JavaScript.
 
 ---
 
-📦 Deployment
+## 📦 Deployment
 You can deploy this project using any static hosting service such as:
 Vercel
 Netlify
@@ -51,19 +51,19 @@ GitHub Pages
 
 ---
 
-✨ Customization
+## ✨ Customization
 - Replace the images in assets/ with your own product images.
 - Update text content in index.html for promotions, offers, or product details.
 - Modify style.css to change colors, fonts, or layout.
 
 ---
 
-📄 License
+## 📄 License
 This project is open-source and available under the MIT License.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 Subhasree Sahu
 GitHub: https://github.com/Subh0220
-Portfolio: [\[Subhasree Sahu\]](https://my-portfolio-wheat-mu-65.vercel.app/)
+Portfolio: [\Subhasree Sahu\]](https://my-portfolio-wheat-mu-65.vercel.app/)
